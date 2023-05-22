@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1642846561 source:c:\users\rcc\desktop\minesweeper_arian\main.cpp
+	<bits/stdc++.h>
+	"clui.h"
+
+1640373199 c:\users\rcc\desktop\minesweeper_arian\clui.h
+	<signal.h>
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	<Windows.h>
+	<conio.h>
+	<sys/ioctl.h>
+	<termios.h>
+	<unistd.h>
+
